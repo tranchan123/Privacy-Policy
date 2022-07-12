@@ -465,7 +465,7 @@ Applovin https://www.applovin.com/max/
 
 Mobfox https://www.mobfox.com/gdpr/
 
-Unity3d https://unity3d.com/legal/privacy-policy
+Unity Ads https://unity3d.com/legal/privacy-policy
 
 Inmobi https://www.inmobi.com/privacy-policy-for-eea
 
@@ -474,3 +474,21 @@ Millemedia https://www.millemedia.de/datenschutz/
 Singular https://www.singular.net/blog/gdpr-frequently-asked-questions/
 
 Mintegral https://www.mintegral.com/en/privacy
+
+Yandex https://yandex.ru/legal/confidential/
+
+Microsoft https://privacy.microsoft.com/en-us/privacystatement
+
+Media https://www.media.net/privacy-policy/
+
+Linkedin https://www.linkedin.com/legal/privacy-policy
+
+Ironnet https://www.ironnet.com/privacy-statement
+
+Fluct https://corp.fluct.jp/privacy/
+
+Fiverr https://www.fiverr.com/privacy-policy
+
+Chartboost https://answers.chartboost.com/en-us/articles/200780269
+
+Adcolony https://www.adcolony.com/consumer-privacy/
