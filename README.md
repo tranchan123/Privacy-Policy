@@ -544,3 +544,5 @@ digital turbine https://www.digitalturbine.com/gdpr-resource-page-and-faqs/
 startapp  https://www.start.io/policy/privacy-policy/
 
 epom https://epom.com/privacy-policy
+
+basis https://privacy.basis.net/
