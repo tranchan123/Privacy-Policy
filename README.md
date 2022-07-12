@@ -492,3 +492,31 @@ Fiverr https://www.fiverr.com/privacy-policy
 Chartboost https://answers.chartboost.com/en-us/articles/200780269
 
 Adcolony https://www.adcolony.com/consumer-privacy/
+
+microad https://www.microad.co.jp/privacy/
+
+bridgewell https://www.bridgewell.com/privacy/
+
+unicorn https://uncn.jp/cup?lan=en
+
+zucks http://zucks.co.jp/en/privacy/
+
+astromotiongames http://astromotiongames.com/gdpr
+
+revx https://www.revx.io/privacy-policy
+
+snap inc. https://www.snap.com/en-US/privacy/privacy-policy
+
+appier https://www.appier.com/about/privacy-policy/
+
+tabmo http://static.tabmo.io.s3.amazonaws.com/privacy-policy/index.html
+
+admaxim http://www.admaxim.com/admaxim-privacy-policy/
+
+bidease https://bidease.com/terms-of-use
+
+bigabid https://www.bigabid.com/Legal/
+
+appgrowth https://www.appgrowth.com/privacy-policy/
+
+groundhog https://www.ghtinc.com/privacy-policy/
