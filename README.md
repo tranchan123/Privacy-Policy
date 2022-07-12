@@ -450,3 +450,27 @@ Widespace	https://www.widespace.com/legal/privacy-policy-notice/
 Yieldr	https://www.yieldr.com/privacy/
 
 ZMS	https://zms.zalando.com/#
+
+Smartyads https://smartyads.com/privacy-policy
+
+Tapjoy https://www.tapjoy.com/legal/#privacy-policy
+
+Appsflyer https://www.appsflyer.com/legal/privacy-policy/
+
+Yahoo https://about.yahoo.co.jp/common/terms/chapter1/
+
+Vungle https://vungle.com/gdpr-faq/
+
+Applovin https://www.applovin.com/max/
+
+Mobfox https://www.mobfox.com/gdpr/
+
+Unity3d https://unity3d.com/legal/privacy-policy
+
+Inmobi https://www.inmobi.com/privacy-policy-for-eea
+
+Millemedia https://www.millemedia.de/datenschutz/
+
+Singular https://www.singular.net/blog/gdpr-frequently-asked-questions/
+
+Mintegral https://www.mintegral.com/en/privacy
