@@ -520,3 +520,27 @@ bigabid https://www.bigabid.com/Legal/
 appgrowth https://www.appgrowth.com/privacy-policy/
 
 groundhog https://www.ghtinc.com/privacy-policy/
+
+emx https://enginemediaexchange.com/terms-and-conditions/
+
+sovrn https://www.sovrn.com/legal/privacy-policy/
+
+sonobi https://sonobi.com/privacy-policy/
+
+e-planning https://www.e-planning.net/en/privacy.html
+
+sharethrough https://www.sharethrough.com/privacy-center/consumer-privacy-notice
+
+openx https://www.openx.com/privacy-center/ad-exchange-privacy-policy/
+
+index exchange http://www.indexexchange.com/privacy/
+
+triple lift https://triplelift.com/privacy/
+
+ironsource https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+digital turbine https://www.digitalturbine.com/gdpr-resource-page-and-faqs/
+
+startapp  https://www.start.io/policy/privacy-policy/
+
+epom https://epom.com/privacy-policy
